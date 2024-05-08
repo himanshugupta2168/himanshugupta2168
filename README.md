@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshugupta2168&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta2168" /> </p>
 
-- 🌱 I’m currently learning **POSTGRES**
+- 🌱 I’m currently learning **Next Js **
 
 - 👨‍💻 All of my projects are available at [https://himanshu-gupta-v1.vercel.app/](https://himanshu-gupta-v1.vercel.app/)
 
